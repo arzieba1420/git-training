@@ -11,4 +11,8 @@ public class Main {
         System.out.println();
     }
 
+    private int calculate(){
+        return 0;
+    }
+
 }
