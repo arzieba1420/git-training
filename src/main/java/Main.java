@@ -15,4 +15,8 @@ public class Main {
         return 0;
     }
 
+    private double doubleCalcInFeature(){
+        return 0D;
+    }
+
 }
