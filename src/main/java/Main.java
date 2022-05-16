@@ -4,7 +4,11 @@ public class Main {
     }
 
     private void displayText(){
-        System.out.println("zmiana w drugim repo");
+        System.out.println("zmiana na lokalnym master");
+    }
+
+    private void anotherDisplay(){
+        System.out.println();
     }
 
 }
