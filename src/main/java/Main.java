@@ -22,5 +22,8 @@ public class Main {
     private void someNextFeature(){
 
     }
+    private void someNextFeatureinFeatureBranch(){
+
+    }
 
 }
