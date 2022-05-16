@@ -19,4 +19,8 @@ public class Main {
         return 0D;
     }
 
+    private void someNextFeature(){
+
+    }
+
 }
