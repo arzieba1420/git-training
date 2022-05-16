@@ -4,7 +4,7 @@ public class Main {
     }
 
     private void displayText(){
-        System.out.println("zmiana na lokalnym master");
+        System.out.println("zmiana na lokalnym master po pull requescie");
     }
 
     private void anotherDisplay(){
